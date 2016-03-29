@@ -1,5 +1,6 @@
 {
-    
+
+"name": "flare",
     "children": [{
         "name": "analytics",
         "children": [{
@@ -742,5 +743,4 @@
             "size": 16540
         }]
     }]
-},
-"name": "flare"
+}
